@@ -99,7 +99,7 @@ This includes, Python, Ruby, Rust, JavaScript, PHP & of course normal bash scrip
     $PATH=~/.bin/:$PATH
     ```
 
-(show an example)
+[(example)](https://github.com/ahmedelgabri/dotfiles/blob/a89987682884a552a24e6ab5e420e2d4b955a808/bin/mkssh)
 
 
 ---
@@ -199,7 +199,7 @@ If you want to change something on specific repo don't use the `--global` flag.
 
 https://github.com/blog/2242-git-2-10-has-been-released
 
-Let me show you my `.gitconfig`
+[my `.gitconfig`](https://github.com/ahmedelgabri/dotfiles/blob/a89987682884a552a24e6ab5e420e2d4b955a808/git/gitconfig.local)
 
 ---
 
@@ -324,6 +324,10 @@ And NEVER install something or run a script without understanding what it's doin
 - optimize your workflow
 - automate repetitive tasks
 - Use the keyboard more, learn shortcuts & ditch mouse/trackpad.
+
+---
+
+My [`.dotfiles`](https://github.com/ahmedelgabri/dotfiles) for anyone who is interested.
 
 ---
 
